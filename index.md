@@ -1,6 +1,5 @@
 ---
-title: Welcome to my blog
-hello 
+title: Welcome to my diary
 
 ---
 
